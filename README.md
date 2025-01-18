@@ -1,6 +1,6 @@
 # EcoCommit
 ## Empowering IT Professionals for a more Sustainable Future 🌍
-EcoCommit is an open-source initiative dedicated to helping software developers reduce their environmental impact through actionable strategies.
+EcoCommit is an open-source initiative dedicated to helping software developers reduce their environmental impact through actionable strategies, (automated) tests and awareness.
 
 ## Mission
 
